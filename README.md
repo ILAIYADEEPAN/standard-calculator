@@ -143,8 +143,10 @@ form input.operator{
 ```
 
 ## OUTPUT:
-file:///home/sec/fwad/ex08/input.png![image](https://github.com/ILAIYADEEPAN/standard-calculator/assets/147473334/5d109ac4-d847-40a7-bff3-fa6438b51a79)
-file:///home/sec/fwad/ex08/output.png![image](https://github.com/ILAIYADEEPAN/standard-calculator/assets/147473334/17726522-fac0-455a-8a8a-b49e656289b5)
+INPUT
+![image](https://github.com/ILAIYADEEPAN/standard-calculator/assets/147473334/5d109ac4-d847-40a7-bff3-fa6438b51a79)
+OUTPUT
+![image](https://github.com/ILAIYADEEPAN/standard-calculator/assets/147473334/17726522-fac0-455a-8a8a-b49e656289b5)
 
 
 ## Result:
